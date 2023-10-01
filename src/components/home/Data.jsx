@@ -54,8 +54,8 @@ const Data = () => {
                   ></path>
         </svg>
         </h1>
-        <h3 className="home__subtitle">Front Developer</h3>
-        <p className="home__description">Self-taught Study: -HTML -CSS -Javascript -React: from CodeBootcamp.</p>
+        <h3 className="home__subtitle">Front-end Developer</h3>
+        <p className="home__description">Self-taught Study: -HTML -CSS -Javascript -React from CodeBootcamp.</p>
         <a href="#contact" className="button button--flex">
             Let's Go..
             <svg
