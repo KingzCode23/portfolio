@@ -25,7 +25,7 @@ const Service = () => {
                         <i className="uil uil-times services__modal-close" onClick={()=> toggleTab(0)}></i>
                         <h3 className="services__modal-title">Web page Designer</h3>
                         <p className="services__modal-description">Service with experience(OJT) of 
-                        3 months of experience with Quality Assurance & Front-end Developer. Providing 
+                        3 months with Quality Assurance & Front-end Developer. Providing 
                         Quality Work.</p>
 
                         <ul className="services__modal-services grid">
@@ -62,7 +62,7 @@ const Service = () => {
                         <i className="uil uil-times services__modal-close" onClick={()=> toggleTab(0)}></i>
                         <h3 className="services__modal-title">UI/UX Designer</h3>
                         <p className="services__modal-description">Service with experience(OJT) of 
-                        3 months of experience with Quality Assurance & Front-end Developer. Providing 
+                        3 months with Quality Assurance & Front-end Developer. Providing 
                         Quality Work.</p>
 
                         <ul className="services__modal-services grid">
@@ -99,7 +99,7 @@ const Service = () => {
                         <i className="uil uil-times services__modal-close" onClick={()=> toggleTab(0)}></i>
                         <h3 className="services__modal-title">Quality Assurance </h3>
                         <p className="services__modal-description">Service with experience(OJT) of 
-                        3 months of experience with Quality Assurance & Front-end Developer. Providing 
+                        3 months with Quality Assurance & Front-end Developer. Providing 
                         Quality Work.</p>
 
                         <ul className="services__modal-services grid">
