@@ -6,6 +6,9 @@ import Skills from './components/skills/Skills';
 import Service from './components/services/Service';
 import Qualification from './components/Qualification/Qualification';
 import Certificate from './components/certificate/Certificate';
+import Contact from './components/Contact/Contact';
+import Footer from './components/footer/Footer';
+import Scrollup from './components/scroolup/Scrollup';
 
 function App() {
   return (
@@ -18,9 +21,12 @@ function App() {
         <Service />
         <Qualification />
         <Certificate />
+        <Contact />
+       
       </main>
+      <Footer />
+      <Scrollup />
     </>
   );
 }
-
 export default App;
