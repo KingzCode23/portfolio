@@ -1,6 +1,7 @@
 import Are from '../../assets/Are.jpg'
 import Host from '../../assets/host.jpg'
-import Hosts from '../../assets/Are.jpg'
+import M from '../../assets/mage-5.jpg'
+import C from '../../assets/mage-6.jpg'
 
 
 export const Data = [{
@@ -17,8 +18,14 @@ export const Data = [{
 },
 {
     id: 3,
-    image: Hosts,
-    title: '6 ITEE Bootcamp 2021',
-    description: 'Successfully Completed the Unboxing Opportunities for Inovation in the Pandemic'
+    image: M,
+    title: 'On the Hob Training',
+    description: 'Successfully Completed 486-hours of Training'
+},
+{
+    id: 4,
+    image: C,
+    title: 'Canva Training -DICT',
+    description: 'Successfully Completed the Basic Canva Training from Department of Information Computer Technology'
 }
 ]

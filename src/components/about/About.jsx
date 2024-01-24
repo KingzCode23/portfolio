@@ -1,7 +1,7 @@
 import React from 'react'
 import './about.css'
 import King from '../../assets/king-1.jpg'
-import CV from '../../assets/John-Cv.pdf'
+import CV from '../../assets/r2.pdf'
 import Info from './Info'
 
 
@@ -16,9 +16,13 @@ const About = () => {
         <div className="about__data">
           <Info />
 
-          <p className="about__description">Graduate of Information Technology. Have a knowledge of Front-end Development. 
-          Complete 3 given project during practicum: Writing Test-case, Executing Test-case & Creating
-          System Specification. Designing Web-page for Capstone, Designing to Development using AdobeXD & HTML,CSS,Javascript and also have a basic understanding of Software Manual Testing & React Javascript Library.</p>
+          <p className="about__description">Graduate of Information Technology. 
+          Have a knowledge of Front-end Development. 
+          Complete 3 given project during practicum: Writing Test-case, 
+          Executing Test-case & Creating
+          System Specification. Designing Web-page for Capstone, Designing to 
+          Development using AdobeXD & HTML,CSS,Javascript and also have a basic 
+          understanding of Software Manual Testing & React Javascript Library.</p>
 
           <a download="" href={CV} className="button button--flex">Download CV
           <svg
